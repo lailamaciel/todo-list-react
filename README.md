@@ -1,48 +1,48 @@
-# 📝 Todo List em React
+# 📝 To-Do List in React
 
-Projeto de uma lista de tarefas (To-do List) desenvolvido com React.  
-Permite adicionar, marcar como concluída e remover tarefas, com armazenamento local no navegador.
+A simple to-do list project built with React.  
+It allows adding, marking as complete, and deleting tasks, with local storage support.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-- React
-- JavaScript (ES6+)
-- CSS
+- React  
+- JavaScript (ES6+)  
+- CSS  
 - LocalStorage
 
-## 💻 Funcionalidades
+## 💻 Features
 
-- [x] Adicionar tarefas
-- [x] Marcar tarefas como concluídas
-- [x] Remover tarefas
-- [x] Armazenamento persistente (localStorage)
+- [x] Add tasks  
+- [x] Mark tasks as completed  
+- [x] Remove tasks  
+- [x] Persistent storage (localStorage)
 
-## 📦 Como executar
+## 📦 How to Run
 
 ```bash
-# Clonar o repositório
+# Clone the repository
 git clone https://github.com/lailamaciel/todo-list-react.git
 
-# Entrar na pasta
+# Navigate to the folder
 cd todo-list-react
 
-# Instalar as dependências
+# Install dependencies
 npm install
 
-# Iniciar o projeto
+# Start the project
 npm run dev
 ```
 
-> Projeto feito como exercício de prática e aprendizado em React.
+> Project created for hands-on practice with React.
 
 ## 🧠 Aprendizados
 
-- Uso de `useState` e `useEffect`
-- Manipulação de arrays e objetos no React
-- Componentização
-- Persistência com localStorage
+- Using `useState` and `useEffect`
+- Array and object manipulation in React
+- Component structure
+- Persistence with localStorage
 
-## 🧑‍💻 Feito por
+## 🧑‍💻 Developed by
 
 **Laila Maciel**  
 [LinkedIn](https://www.linkedin.com/in/lailamaciel) • [GitHub](https://github.com/lailamaciel)
